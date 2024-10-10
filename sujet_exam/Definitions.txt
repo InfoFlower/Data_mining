@@ -1,0 +1,20 @@
+    => L’indice de support : mesure la fréquence d’apparition de A et B sur un
+même ticket (nombre de tickets avec A et B/nombre total de tickets) ,
+
+
+
+
+    => L’indice de confiance : probabilité d’apparition de B sur les tickets
+comprenant A (nombre de tickets avec A et B/nombre de tickets avec A)
+
+
+
+
+    => L’indice de confiance attendue : probabilité d’apparition de B sur la totalité
+des tickets (nombre de tickets avec B/nombre de tickets)
+
+
+
+
+    => Le levier ou le lift : le poids relatif de cette association compte tenu de la
+fréquence d’apparition naturelle de B
