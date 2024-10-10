@@ -1,0 +1,27 @@
+Objet 
+
+On souhaite étudier les associations de produits et services bancaires
+
+Vous travaillez comme chargé d'étude pour un cabinet de consultant.
+
+Un de vos clients vous demande de réaliser une 
+étude simple sur les associations des services qu'il commercialise.
+
+Pour ce faire, vous avez accès à une base contenant des informations 
+sur plusieurs clients et des principaux services détenus par le client
+
+La question est alors de savoir quelles associations existent. 
+Quelles préconisations faites-vous afin d'améliorer le cross-selling que désire mettre en place votre client ? 
+
+Remarque : 
+
+Le client souhaite mettre en avant les services ou produits liés à l’assurance (dommage et de personne) 
+et à l’épargne (dont les produits de type assurance vie ou de prévoyance/dépendance)
+
+
+
+Un soin particulier devra être porté sur le choix des seuils :
+	- sur le support, 
+	- le Lift 
+	- l’indice de confiance 
+afin de faire les meilleures propositions possibles
